@@ -1,0 +1,20 @@
+{
+  "name": "lcars-repo",
+  "interface": {
+    "displayName": "LCARS Repo"
+  },
+  "plugins": [
+    {
+      "name": "lcars",
+      "source": {
+        "source": "local",
+        "path": "./plugins/lcars"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "lcars",
+  "version": "0.1.0",
+  "description": "Star Trek TNG computer mode. Minimal declarative responses. Progressive disclosure.",
+  "author": {
+    "name": "chezluc",
+    "url": "https://github.com/chezluc"
+  },
+  "homepage": "https://github.com/chezluc/lcars",
+  "repository": "https://github.com/chezluc/lcars",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "communication",
+    "brevity",
+    "star-trek"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "LCARS",
+    "shortDescription": "Enterprise-D computer mode. Minimal. Declarative. Progressive disclosure.",
+    "longDescription": "Star Trek TNG computer communication mode. Cuts ~80% output tokens with data-first responses and Access diagnostic? y/n progressive disclosure.",
+    "developerName": "chezluc",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "websiteURL": "https://github.com/chezluc/lcars",
+    "defaultPrompt": [
+      "Use LCARS mode. Respond like Enterprise-D computer. Minimal. Progressive disclosure."
+    ],
+    "brandColor": "#FF9900"
+  }
+}

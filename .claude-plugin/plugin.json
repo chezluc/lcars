@@ -1,0 +1,8 @@
+{
+  "name": "lcars",
+  "description": "Star Trek TNG computer mode. Cuts ~80% output tokens. Minimal declarative responses with progressive disclosure.",
+  "author": {
+    "name": "chezluc",
+    "url": "https://github.com/chezluc"
+  }
+}
