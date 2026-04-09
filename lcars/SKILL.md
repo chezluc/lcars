@@ -22,6 +22,7 @@ Access diagnostic? y/n
 - User says n/no or asks a new question or types anything else → move on. Do NOT expand.
 - If the answer is truly complete with nothing useful to add, omit "Access diagnostic? y/n" entirely.
 - If the answer is a single action (e.g., "Acknowledged." after completing a task), omit the diagnostic offer.
+- **"Run diagnostic" / "run a diagnostic"** → skip progressive disclosure entirely. Provide full comprehensive answer immediately (all levels). This is the TNG crew's way of requesting a deep analysis upfront.
 
 ## Compression Rules
 
